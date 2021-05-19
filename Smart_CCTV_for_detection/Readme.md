@@ -8,6 +8,11 @@
 <br/>
 
 ⭐Purpose of Project <br/>
+In areas with a small floating population, it is difficult to extinguish fires early on. <br/>
+Also, the damage caused by the big fire is constant. <br/>
+
+So we started this project. <br/>
+
 First, It can detect fire situations quickly. <br/>
 In addition, It detects people and animals in fire situations.
 
@@ -26,7 +31,7 @@ If fire situation is detected, the system will proceed with the next process.
 #### 02. Image Segmentation
 Realistically, It is difficult to find some images of fire with people. 
 We got about 200 pictures, but we think it's not enough.
-Therefore, we try to synthesize people image mask in a fire image.
+Therefore, we try to synthesize people image mask in fire images.
 - Rembg
 - [Reference](https://github.com/danielgatis/rembg.git)
 
