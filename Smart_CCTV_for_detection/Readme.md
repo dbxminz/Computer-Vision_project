@@ -39,17 +39,21 @@ Therefore, we try to synthesize people image mask in a fire image.
 <br/>
 
 #### 03. Image Generation
-![image](https://user-images.githubusercontent.com/75927569/118816477-2a37ec00-b8ed-11eb-92c2-5aeff260e3c7.png) <br/>
-➕<br/>
-![image](https://user-images.githubusercontent.com/75927569/118816503-30c66380-b8ed-11eb-9da5-c2729de24427.png)<br/>
-⬇<br/>
+![image](https://user-images.githubusercontent.com/75927569/118816477-2a37ec00-b8ed-11eb-92c2-5aeff260e3c7.png) 
+<br/>
+➕
+<br/>
+![image](https://user-images.githubusercontent.com/75927569/118816503-30c66380-b8ed-11eb-9da5-c2729de24427.png)
+<br/>
+⬇
+<br/>
 ![image](https://user-images.githubusercontent.com/75927569/118816527-358b1780-b8ed-11eb-951d-aa7663c6a7ac.png) <br/>
 
 
 <br/>
 
 #### 04. Image Detection
-- mmdetection
+- mmdetection <br/>
 ![image](https://user-images.githubusercontent.com/75927569/118816587-49cf1480-b8ed-11eb-9b7d-3421561b0b11.png)
 
 
