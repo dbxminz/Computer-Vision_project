@@ -1,16 +1,18 @@
 # Smart_CCTV_for_fire_detection
 #### Project in progress
-#### This is the Computer-Vision of a PBL class for the first semester of 2021.(2021.03 ~ 2021.06)
+#### This is the Computer-Vision Project of a PBL class for the first semester of 2021.(2021.03 ~ 2021.06)
 
 ⭐Purpose of Project
-It can detect fire situations. In addition, It detects people and animals in fire situations.
+First, It can detect fire situations quickly. 
+In addition, It detects people and animals in fire situations.
 
 
 ⭐Process
 - data : kaggle
 
 #### 01. Image Classification
-This classifies fire situations and non-fire situations
+This classifies fire situations and non-fire situations.
+If fire situation is detected, the system will proceed with the next process.
 
 ![image](https://user-images.githubusercontent.com/75927569/118815403-2e173e80-b8ec-11eb-80b8-162a5cc4f5cc.png)
 
@@ -19,6 +21,8 @@ This classifies fire situations and non-fire situations
 Realistically, It is difficult to find some images of fire with people. 
 We got about 200 pictures, but we think it's not enough.
 Therefore, we try to synthesize people image mask in a fire image.
+- Rembg
+- [Reference](https://github.com/danielgatis/rembg.git)
 
 ![image](https://user-images.githubusercontent.com/75927569/118816283-fa88e400-b8ec-11eb-9a72-de97ef72ffe1.png)
 
