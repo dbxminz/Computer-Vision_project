@@ -2,13 +2,18 @@
 ##### ❗ Project in progress
 #### This is the Computer-Vision Project of a PBL class for the first semester of 2021.(2021.03 ~ 2021.06)
 
+<br/>
+- data : kaggle
+<br/>
+
 ⭐Purpose of Project <br/>
-First, It can detect fire situations quickly. 
+First, It can detect fire situations quickly. <br/>
 In addition, It detects people and animals in fire situations.
 
+<br/>
 
 ⭐Process
-- data : kaggle
+
 
 #### 01. Image Classification
 This classifies fire situations and non-fire situations.
