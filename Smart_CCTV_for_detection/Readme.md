@@ -43,7 +43,7 @@ Therefore, we try to synthesize people image mask in a fire image.
 ➕<br/>
 ![image](https://user-images.githubusercontent.com/75927569/118816503-30c66380-b8ed-11eb-9da5-c2729de24427.png)<br/>
 ⬇<br/>
-![image](https://user-images.githubusercontent.com/75927569/118816527-358b1780-b8ed-11eb-951d-aa7663c6a7ac.png) {: width="50%" height="50%"} <br/>
+![image](https://user-images.githubusercontent.com/75927569/118816527-358b1780-b8ed-11eb-951d-aa7663c6a7ac.png) <br/>
 
 
 <br/>
