@@ -24,6 +24,8 @@ In addition, It detects people and animals in fire situations.
 This classifies fire situations and non-fire situations.
 If fire situation is detected, the system will proceed with the next process.
 
+<img src = "https://user-images.githubusercontent.com/75927569/118815403-2e173e80-b8ec-11eb-80b8-162a5cc4f5cc.png" width="30%" height="30%">
+
 ![image](https://user-images.githubusercontent.com/75927569/118815403-2e173e80-b8ec-11eb-80b8-162a5cc4f5cc.png)
 
 <br/>
@@ -42,9 +44,9 @@ Therefore, we try to synthesize people image mask in fire images.
 ![image](https://user-images.githubusercontent.com/75927569/118816391-17bdb280-b8ed-11eb-8e9f-0c081c94a55d.png)
 
 <br/>
-another example)<br/>
-![9](https://user-images.githubusercontent.com/75927569/119300238-62e41680-bc9b-11eb-8646-ef45b58f7d2f.png)
-![55](https://user-images.githubusercontent.com/75927569/119300244-65467080-bc9b-11eb-9648-bd23ac635dd7.png)
+another example) <br/>
+![9](https://user-images.githubusercontent.com/75927569/119300238-62e41680-bc9b-11eb-8646-ef45b58f7d2f.png) <br/>
+![55](https://user-images.githubusercontent.com/75927569/119300244-65467080-bc9b-11eb-9648-bd23ac635dd7.png) <br/>
 ![61](https://user-images.githubusercontent.com/75927569/119300250-67103400-bc9b-11eb-8e57-2bfeb71aa044.png) <br/>
 
 #### 03. Image Generation
