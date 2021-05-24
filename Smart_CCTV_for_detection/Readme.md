@@ -42,8 +42,14 @@ Therefore, we try to synthesize people image mask in fire images.
 ![image](https://user-images.githubusercontent.com/75927569/118816391-17bdb280-b8ed-11eb-8e9f-0c081c94a55d.png)
 
 <br/>
+another example)<br/>
+![9](https://user-images.githubusercontent.com/75927569/119300238-62e41680-bc9b-11eb-8646-ef45b58f7d2f.png)
+![55](https://user-images.githubusercontent.com/75927569/119300244-65467080-bc9b-11eb-9648-bd23ac635dd7.png)
+![61](https://user-images.githubusercontent.com/75927569/119300250-67103400-bc9b-11eb-8e57-2bfeb71aa044.png) <br/>
 
 #### 03. Image Generation
+
+
 ![image](https://user-images.githubusercontent.com/75927569/118816477-2a37ec00-b8ed-11eb-92c2-5aeff260e3c7.png) <br/>
 
 ➕
@@ -54,12 +60,21 @@ Therefore, we try to synthesize people image mask in fire images.
 
 ![image](https://user-images.githubusercontent.com/75927569/118816527-358b1780-b8ed-11eb-951d-aa7663c6a7ac.png) <br/>
 
+anoter example)
+![28](https://user-images.githubusercontent.com/75927569/119300268-72635f80-bc9b-11eb-9b55-9686e90b0d29.png)
+![39](https://user-images.githubusercontent.com/75927569/119300281-77c0aa00-bc9b-11eb-91c0-6bfd095abbad.png)
+
+
 
 <br/>
 
 #### 04. Image Detection
 - mmdetection <br/>
-![image](https://user-images.githubusercontent.com/75927569/118816587-49cf1480-b8ed-11eb-9b7d-3421561b0b11.png)
+![image](https://user-images.githubusercontent.com/75927569/119300478-ca9a6180-bc9b-11eb-8279-38cda9f0e917.png) <br/>
+
+
+another example) <br/>
+![5](https://user-images.githubusercontent.com/75927569/119300087-21536b80-bc9b-11eb-8f5f-2435407e1a14.png)
 
 
 
