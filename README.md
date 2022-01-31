@@ -1,4 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dbxminz&repo=github-readme-stats&theme=discord_old_blurple)](https://github.com/dbxminz/github-readme-stats)
 # Smart_CCTV_for_fire_detection
 ##### ❗ Project in progress
 #### This is the Computer-Vision Project of a PBL class for the first semester of 2021.(2021.03 ~ 2021.06)
